@@ -42,7 +42,7 @@ python3 train.py --train dataset/normal/ --n_iter 2000 --record 5 --batch_size 8
 ```
 python3 demo.py --demo dataset/abnormal/ --batch_size 1 --r 2
 ```
-/home/gwc/图片/2019-09-27 19-51-47屏幕截图.png
+
 Reference
 ---
 [1] SunnerLihttps://github.com/SunnerLi/GANomaly2D.
