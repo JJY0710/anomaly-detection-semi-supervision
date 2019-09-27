@@ -46,12 +46,12 @@ python3 demo.py --demo dataset/abnormal/ --batch_size 1 --r 2
 ![ad](https://github.com/gewenchao/anomaly-detection-of-improved-ganomaly2d/blob/master/0.png)
 ![ad](https://github.com/gewenchao/anomaly-detection-of-improved-ganomaly2d/blob/master/1.png)
 
-'''
-The foreign object is a highlighted part, which means that the area is relatively large.
-'''
+```
+The above image illustrates the demo result,The foreign object is a highlighted part, which means that the area is relatively large.
+```
 ---
 Reference
 ---
-[1] SunnerLihttps://github.com/SunnerLi/GANomaly2D.
+[1] SunnerLihttps://github.com/SunnerLi/GANomaly2D.  
 [2] S. Akcay, A. A. Abarghouei, and T. P. Breckon. Ganomaly: Semi-supervised anomaly detection via adversarial training. CoRR, abs/1805.06725, 2018.
 [3] J.-Y. Zhu, T. Park, P. Isola, and A. A. Efros. Unpaired image-to-image translation using cycle-consistent adversarial networks. arXiv preprint, 2017.      
