@@ -46,7 +46,9 @@ python3 demo.py --demo dataset/abnormal/ --batch_size 1 --r 2
 ![ad](https://github.com/gewenchao/anomaly-detection-of-improved-ganomaly2d/blob/master/0.png)
 ![ad](https://github.com/gewenchao/anomaly-detection-of-improved-ganomaly2d/blob/master/1.png)
 
-
+'''
+The foreign object is a highlighted part, which means that the area is relatively large.
+'''
 ---
 Reference
 ---
