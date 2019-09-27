@@ -21,23 +21,27 @@ The network structure is the 2D version of GANomaly [1]. Moreover, the structure
 Dataset
 
 should have the following directory & file structure:
+```
+Custom Dataset
 ├── test
-│   ├── 0.normal
-│   │   └── normal_tst_img_0.png
-│   │   └── normal_tst_img_1.png
-│   │   ...
-│   │   └── normal_tst_img_n.png
-│   ├── 1.abnormal
-│   │   └── abnormal_tst_img_0.png
-│   │   └── abnormal_tst_img_1.png
-│   │   ...
-│   │   └── abnormal_tst_img_m.png
+│   ├── 0.normal
+│   │   └── normal_tst_img_0.png
+│   │   └── normal_tst_img_1.png
+│   │   ...
+│   │   └── normal_tst_img_n.png
+│   ├── 1.abnormal
+│   │   └── abnormal_tst_img_0.png
+│   │   └── abnormal_tst_img_1.png
+│   │   ...
+│   │   └── abnormal_tst_img_m.png
 ├── train
 │   ├── 0.normal
-│   │   └── normal_tst_img_0.png
-│   │   └── normal_tst_img_1.png
-│   │   ...
-│   │   └── normal_tst_img_t.png
+│   │   └── normal_tst_img_0.png
+│   │   └── normal_tst_img_1.png
+│   │   ...
+│   │   └── normal_tst_img_t.png
+
+```
 
 Usage
 ---
