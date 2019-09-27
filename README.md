@@ -30,8 +30,10 @@ Custom Dataset:
 │   │   └── normal_tst_img_t.png
 
 
+
 Usage(example)
 ---
+
 * Train:
 python3 train.py --train dataset/normal/ --n_iter 2000 --record 5 --batch_size 8 --r 2
 ```
