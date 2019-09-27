@@ -42,9 +42,9 @@ python3 train.py --train dataset/normal/ --n_iter 2000 --record 5 --batch_size 8
 ```
 python3 demo.py --demo dataset/abnormal/ --batch_size 1 --r 2
 ```
-
+/home/gwc/图片/2019-09-27 19-51-47屏幕截图.png
 Reference
 ---
-[1] SunnerLihttps://github.com/SunnerLi/GANomaly2D./
+[1] SunnerLihttps://github.com/SunnerLi/GANomaly2D.
 [2] S. Akcay, A. A. Abarghouei, and T. P. Breckon. Ganomaly: Semi-supervised anomaly detection via adversarial training. CoRR, abs/1805.06725, 2018.    
 [3] J.-Y. Zhu, T. Park, P. Isola, and A. A. Efros. Unpaired image-to-image translation using cycle-consistent adversarial networks. arXiv preprint, 2017.    
