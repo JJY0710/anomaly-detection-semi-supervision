@@ -9,6 +9,7 @@ Structure
 ---
 The network structure is the 2D version of GANomaly2d [1]. Moreover, the structure of encoder and decoder is revised from the generator in CycleGAN [3]. We also use PatchGAN to replace the original architecture of discriminator.
 Dataset should have the following directory & file structure:
+
 Custom Dataset
 ├── test
 │   ├── 0.normal
@@ -27,7 +28,8 @@ Custom Dataset
 │   │   └── normal_tst_img_1.png
 │   │   ...
 │   │   └── normal_tst_img_t.png
-```
+
+
 Usage(example)
 ---
 * Train:
